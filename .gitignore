@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+
+# Node.js (common ignores)
+node_modules/
+npm-debug.log
+.env
+.DS_Store
+
+# Gemini CLI specific
+.gemini/
